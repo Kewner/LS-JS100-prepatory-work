@@ -1,0 +1,12 @@
+typeof null; 			// object
+typeof [1, 2, 3]; 		// object
+Array.isArray([1, 2, 3])	// true
+
+arrays/3-add-delete.js			read: shift()
+strings/3-repeat.js			try again
+arrays/4-alphabet.js			read: array.from()
+functions-2/4-rest-parameters.js	read: rest parameters
+variable-scope/5-what-value.js		read: temporal dead zone
+objects/7-car-keys.js			refresh Object methods/iteration
+
+difference between instance methods and static methods?

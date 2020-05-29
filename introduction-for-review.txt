@@ -1,0 +1,21 @@
+
+----- It might be good to review these files -----
+
+4-functions/three-ways-to-define.js
+6-loops-and-iterating/recursion-doubler.js
+6-loops-and-iterating/recursion-fibonacci.js
+6-loops-and-iterating/2-factorial-function.js
+6-loops-and-iterating/5-randomNumberBetween.js	;try to understand the function
+7-arrays/reduce.js
+7-arrays/object.keys.js
+
+----- Questions raised ---------------------------
+
+array.includes([3, 4]);   // returns false, because includes uses === ; why would this matter?
+
+----- Exercise not yet solved --------------------
+
+6-loops-and-iterating/6-factorial-recursion.js
+7-arrays/8-oddlengths-nomapfilter.js
+8-objects/7-copy-object.js
+9-more-stuff/6-search-array.js

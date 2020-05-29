@@ -1,0 +1,8 @@
+for (let prop in person) {
+  console.log(person[prop]);
+}
+
+Object.keys(object)		returns array with object's keys
+Object.values(object)		returns array with object's values
+Object.entries(object)		returns array with nested arrays, containing keys and values
+Object.assign(obj1, obj2)	combines 2 or more objects, mutates first argument
